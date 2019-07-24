@@ -1,4 +1,4 @@
-package com.br.zup.pizza;
+package com.br.zup;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
